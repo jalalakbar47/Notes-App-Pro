@@ -1,0 +1,44 @@
+# GITHUB UPLOAD INSTRUCTIONS - NOTES APP PRO
+
+Follow these steps to upload your project to GitHub:
+
+STEP 1: CREATE A NEW REPOSITORY
+-------------------------------
+1. Go to https://github.com/
+2. Click "New" to create a repository.
+3. Repository name: notes-app-pro
+4. Public: Selected
+5. DO NOT check "Add a README file", "Add .gitignore", or "Choose a license".
+6. Click "Create repository".
+
+STEP 2: INITIALIZE GIT AND COMMIT
+---------------------------------
+Open your terminal in the project folder and run:
+
+git init
+git add .
+git commit -m "Initial commit: Notes App Pro v1.0 complete"
+
+STEP 3: CONNECT TO REMOTE AND PUSH
+----------------------------------
+Run these commands in your terminal (Replace 'YOUR-USERNAME' with your actual username):
+
+git remote add origin https://github.com/YOUR-USERNAME/notes-app-pro.git
+git branch -M main
+git push -u origin main
+
+STEP 4: VERIFY
+--------------
+Refresh your GitHub repository page. You should see all your files, the 'screenshots' folder, and the 'README.md' properly rendered.
+
+--------------------------------------------------------------------------------
+PRO-TIP: DEPLOY TO LIVE
+--------------------------------------------------------------------------------
+1. Go to https://vercel.com/
+2. Sign in with GitHub.
+3. Select 'notes-app-pro' and click 'Deploy'.
+4. Your app will be live on a public URL!
+
+--------------------------------------------------------------------------------
+Created by Antigravity | Coding Assistant
+--------------------------------------------------------------------------------
