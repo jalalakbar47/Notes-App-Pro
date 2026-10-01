@@ -1,8 +1,13 @@
 # Notes App Pro 📝
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Lucide](https://img.shields.io/badge/Lucide-Icon-orange?style=for-the-badge)](https://lucide.dev/)
+[![Primary Language: JavaScript](https://img.shields.io/badge/Primary%20Language-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000)](https://github.com/jalalakbar47/Notes-App-Pro/search?l=javascript)
+[![Technology: React](https://img.shields.io/badge/Technology-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Workflow Status](https://img.shields.io/github/actions/workflow/status/jalalakbar47/Notes-App-Pro/copilot-swe-agent%2Fcopilot?style=for-the-badge&label=Workflow%20Status)](https://github.com/jalalakbar47/Notes-App-Pro/actions/workflows/copilot-swe-agent/copilot)
+[![GitHub Stars](https://img.shields.io/github/stars/jalalakbar47/Notes-App-Pro?style=for-the-badge)](https://github.com/jalalakbar47/Notes-App-Pro/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/jalalakbar47/Notes-App-Pro?style=for-the-badge)](https://github.com/jalalakbar47/Notes-App-Pro/network/members)
+[![Open Issues](https://img.shields.io/github/issues/jalalakbar47/Notes-App-Pro?style=for-the-badge)](https://github.com/jalalakbar47/Notes-App-Pro/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/jalalakbar47/Notes-App-Pro?style=for-the-badge)](https://github.com/jalalakbar47/Notes-App-Pro/commits/main)
+[![Live Deployment](https://img.shields.io/badge/Live%20Deployment-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://notes-app-pro-six.vercel.app)
 
 **Notes App Pro** is a modern, professional, portfolio-grade React application designed for cross-platform note management. It features a premium SaaS-style user interface with rich editing capabilities, advanced categorization, and seamless search.
 
